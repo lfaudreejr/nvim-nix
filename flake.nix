@@ -87,7 +87,7 @@
         name = "solarized-osaka";
         src = pkgs.fetchgit {
 	  url = "https://github.com/craftzdog/solarized-osaka.nvim";
-	  hash = "sha256-uDSfLbXqKRSE2dLNVB1uQ5Grv4tPSzppQiR1t01UI+o=";
+	  hash = "sha256-NIypFXDHLUygJhS11x/v7CYctI8pGD8PjTDbQbEGY7o=";
         };
       };
     in {
