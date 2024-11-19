@@ -119,6 +119,7 @@
           stdenv.cc.cc
           nix-doc
           lua-language-server
+          typescript-language-server
           nixd
           stylua
         ];
