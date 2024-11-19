@@ -120,6 +120,7 @@
           nix-doc
           lua-language-server
           typescript-language-server
+          typescript
           nixd
           stylua
         ];
